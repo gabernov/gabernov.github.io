@@ -21,10 +21,10 @@ author: Ggh Media
 
 navbar-links:
   About Me: "aboutme"
- # Resources:
- #   - Beautiful Jekyll: "https://beautifuljekyll.com"
- #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Resources:
+    - Terms of Service: "termofservice"
+    - Privacy Policy: "privacypolicy"
+    - User Data Deletion: "userdatadeletion"
 
 ################
 # --- Logo --- #
