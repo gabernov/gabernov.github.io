@@ -22,7 +22,7 @@ author: Ggh Media
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Terms of Service: "termofservice"
+    - Terms of Service: "termsofservice"
     - Privacy Policy: "privacypolicy"
     - User Data Deletion: "userdatadeletion"
 
